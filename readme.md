@@ -1,13 +1,14 @@
 <img align='right'  alt="gitLogo" src="img/logo.png" width="10%">
-<h1 align="center">Aprenda CSS básico construindo um menu de café</h1>
+<h1 align="center">Aprenda HTML construindo um aplicativo Cat Photo</h1>
 <br>
 <h2 align="left"> 
 <br>
 <hr>
 <h2> **🚀 Desafio: ** </h2>
 
-CSS informa ao navegador como exibir sua página da web. Você pode usar CSS para definir a cor, a fonte, o tamanho e outros aspectos dos elementos HTML.<br>
-Neste curso, você aprenderá CSS projetando uma página de menu para uma página da web de um café.
+As tags HTML dão a uma página da web sua estrutura. Você pode usar tags HTML para adicionar fotos, botões e outros elementos à sua página da web.<br>
+Neste curso, você aprenderá as tags HTML mais comuns criando seu próprio aplicativo de fotos de gatos.
+
 
 <hr>
 
